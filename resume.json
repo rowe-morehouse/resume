@@ -1,0 +1,202 @@
+{
+  "basics": {
+    "name": "Rowe Morehouse",
+    "label": "Technology Sales and Marketing \u00B7 Product Development \u00B7 Software Project Management \u00B7 Frontend Dev \u00B7 Design",
+    "picture": "https://secure.gravatar.com/avatar/a3f6607c5c2eca57e465e09bd73af3ec?size=500",
+    "email": "rm@trendara.com",
+    "phone": "(541) xxx-xx92",
+    "summary": "Creative, entrepreneurial executive with deep technical expertise & software project management experience. Certifications in AWS, Salesforce, Google AdWords & Analytics. Master's Degree. Modern frontend web developer stack and workflow — including art direction and UI design tools. User-focused product manager. Empathetic team leader.",
+    "location": {
+      "postalCode": "97701",
+      "city": "Bend, Oregon"
+    },
+    "profiles": [{
+      "network": "Twitter",
+      "username": "rowemore",
+      "url": "http://twitter.com/rowemore"
+      },
+      {
+      "network": "LinkedIn",
+      "url": "https://www.linkedin.com/in/rowemorehouse/"
+      },
+      {
+      "network": "StackOverflow",
+      "url": "https://stackoverflow.com/users/1618304/rowe-morehouse"
+      },
+      {
+      "network": "Github",
+      "url": "https://github.com/rowe-morehouse"
+    }]
+  },
+  "work": [{
+    "company": "Trendara LLC",
+    "position": "Founder / CEO",
+    "website": "http://trendara.com",
+    "startDate": "2008-04-01",
+    "endDate": "",
+    "summary": "Boutique marketing consultancy specializing in technology and financial services clients.",
+    "highlights": [
+      "Created and optimized keyword campaigns for marketing VMWare cloud services to developers; reducing cost-per-lead lead by 37% while increasing lead volume at the same time. Managed their $350k AdWords spend.",
+      "Defined marketing objectives, identified new traffic sources, and implemented landing-page split-testing & improvements that increased a Financial Services client’s lead volume by over 600% with conversion rates as high as 23%.",
+      "Drove the overall value proposition and product marketing vision by collaborating closely with the CEO of a Fintech startup, resulting in a $500k seed round, and over $500k in initial sales."
+    ]
+  },
+    {
+    "company": "RampRate",
+    "position": "Director of Marketing",
+    "website": "https://ramprate.com/",
+    "startDate": "2008-02-01",
+    "endDate": "2009-04-01",
+    "summary": "Developed b2b marketing programs to reach VP and C-Suite decision-makers at Global 2000 companies shopping for cloud services. Created content for all touchpoints in the Buyer's Journey. Implemented Salesforce.com for this org, and aligned the marketing group and sales team on a lead generation and management process."
+  },
+    {
+    "company": "Wildwood Hills Search Marketing",
+    "position": "Founder / CEO",
+    "website": "https://en.wikipedia.org/wiki/Pay-per-call_advertising",
+    "startDate": "2004-01-01",
+    "endDate": "2008-01-01",
+    "summary": "Founded this successful business-to-consumer internet advertising agency, and grew it to almost 200 brick-and-mortar clients via a productized service offering and a formalized, documented sales strategy.",
+    "highlights": [
+      "Origin Story: After a couple years of selling internet advertising for other firms, I realized that most small businesses in your local yellow pages didn't understand the value of online marketing at that time — due to its complexities and overwhelming array of options. They really wanted phone calls from new prospects. I had an epiphany moment and launched the world's first Pay-Per-Call performance marketing service.",
+      "I concepted and put together a toll-free VOIP phone number-bank and call forwarding and tracking system using open-source software and spreadsheets.",
+      "Our clients loved only having to pay for the phone calls they received … but the key to the success of this business was the smart sales program and my motivating commission structure which attracted top salespeople who I hired and managed."
+    ]
+  },
+    {
+    "company": "Web Media Online Advertising",
+    "position": "Sales Executive",
+    "website": "https://www.conversantmedia.com/",
+    "startDate": "2003-01-01",
+    "endDate": "2004-08-01",
+    "summary": "We take visa, mastercard, and american express … which will it be?",
+    "highlights": [
+      "Sold all manner of CPC / CPA / CPM internet advertising media as an independent rep for multiple firms in LA and SF.",
+      "Purchased traffic at a discount and ran my own affiliate offers."
+    ]
+  },
+    {
+    "company": "Warner Bros. Online",
+    "position": "Online Marketing Specialist",
+    "website": "http://warnerbros.com",
+    "startDate": "2002-01-01",
+    "endDate": "2003-04-01",
+    "summary": "Was hired for hands-on viral marketing of home video releases (on DVD) for titles like The Matrix, Harry Potter & Scooby Doo. Generated millions of impressions for these global brands, contributing to gross sales around release dates."
+  },
+    {
+    "company": "Razorfish",
+    "position": "Technical Project Manager",
+    "website": "https://www.razorfish.com/",
+    "startDate": "1999-01-01",
+    "endDate": "2001-03-01",
+    "summary": "Managed cross-functional project teams for interactive engagements w/ budgets ranging from $1 to $3 million.",
+    "highlights": [
+      "Full accountability for cost / schedule / quality for the client — and overall P&L for the agency — which required a comprehensive understanding of financial and operational metrics and levers.",
+      "Learned the required soft-skills to motivate team members when you have all the responsibility, and no authority.",
+      "Learned to clarify ambiguous requirements, identify hidden stakeholders, and influence client decisions.",
+      "Implemented project risk identification practices & change control procedures.",
+      "Used the best parts of Agile, Scrum, PMI PMBOK, and Rational Unified methodologies."
+    ]
+  },
+    {
+    "company": "Move.com",
+    "position": "Web Developer & User Interface Designer (UI / UX)",
+    "website": "https://www.move.com/",
+    "startDate": "1997-03-01",
+    "endDate": "1998-06-01",
+    "summary": "HTML / CSS / JavaScript. Vested + IPO during my tenure."
+  }],
+  "volunteer": [{
+    "organization": "ChickTech",
+    "position": "Lead Instructor",
+    "website": "https://chicktech.org/",
+    "startDate": "2018-03-01",
+    "endDate": "",
+    "summary": "I teach beginning web development to young people from rural communities for this 501(c)(3) supporting women and girls in tech. "},
+    {
+    "organization": "High Desert Makers",
+    "position": "CRM Manager",
+    "website": "https://www.linkedin.com/company/high-desert-makers/about/",
+    "startDate": "2014-11-01",
+    "endDate": "2017-02-1",
+    "summary": "I consult, configure, and run Salesforce for 501(c)(3) nonprofits organizations."
+    }],
+  "education": [{
+    "institution": "University of Colorado Boulder",
+    "area": "Master's Degree — Integrated Marketing Communications",
+    "gpa": "3.8 GPA"
+      },
+    {
+    "institution": "UC Santa Cruz",
+    "area": "Bachelor's Degree — Studies in Social Psychology & Computer Science",
+    "gpa": "Graduated with Honors."
+  }],
+  "awards": [{
+    "title": "AWS Certified Solutions Architect (Associate)",
+    "awarder": " — Amazon Web Services",
+    "summary": "Hands-on AWS cloud compute, networking, storage, and database knowledge. Software development life cycle, web & app servers, networking, caching, REST, and generally architecting large scale distributed systems. To prepare for the exam, it took me 2 weeks to *read the spec for every single AWS service* — around 160 at the time."
+  },
+{
+    "title": "Salesforce Certified Sales Cloud Consultant",
+    "awarder": " — Salesforce.com",
+    "summary": "Trained in client-facing, customer-centric discovery of business goals and challenges in order to design *and implement* Sales Cloud solutions. Requires a deep knowledge of business processes as well as the technical architecture of complex SAAS. There is also a crucial cultural component in rolling out and getting salespeople and other stakeholders to adopt and use the CRM effectively."
+  },
+{
+    "title": "Google AdWords Certified Professional",
+    "awarder": " — Google",
+    "summary": "Mastery of building and optimizing profitable Google CPC and CPA advertising campaigns; including search, display, YouTube, and contextual. 2x certified."
+  },
+{
+    "title": "Google Analytics IQ Certification",
+    "awarder": " — Google",
+    "summary": "Advanced traffic and user behavior analysis using segmentation, cohort, channel, and audience reports. The idea is to understand the data in order to make actionable product and marketing hypotheses for A/B testing & continuous improvement. Certified 2x."
+  }],
+  "publications": [{
+    "name": "ClickBank Ebook",
+    "publisher": "Publisher: ClickBank",
+    "releaseDate": "2019-02-17",
+    "website": "https://www.clickbank.com/",
+    "summary": "Authored and self-published an Ebook — under an assumed pen name — that has grossed a cumulativ $1.3 million in passive revenue; 100% due to my product management, attentive customer service, and automated PPC & email marketing efforts."
+  }],
+  "skills": [
+    {
+      "keywords": [
+        "HTML",
+        "CSS / Sass / SCSS",
+        "Bootstrap / Tailwind",
+        "AWS Certified",
+        "Git / Github",
+        "Basic React / Angular / Vue.js",
+        "Basic Node / NPM",
+        "-|-",
+        "Google Adwords",
+        "Lead Generation",
+        "Ecommerce",
+        "Conversion Optimization",
+        "Web Analytics",
+        "User Experience Design",
+        "-|-",
+        "Visual Design",
+        "Sketch",
+        "Zeplin",
+        "Photoshop since v1.0",
+        "Video Editing",
+        "Managing Designers",
+        "-|-",
+        "Managing Engineers",
+        "Sofware Project Management",
+        "Agile / Lean / Scrum",
+        "Product Development",
+        "Copywriting",
+        "-|-",
+        "Sales Management",
+        "Sales Operations",
+        "Salesforce CRM Design & Implementation",
+        "-|-",
+        "Listening, Empathy, and Courtesy"
+      ]
+    }
+  ],
+  "references": [{
+    "name": "Solid references from my former managers."
+  }]
+}
