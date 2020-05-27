@@ -34,9 +34,9 @@
     "website": "http://trendara.com",
     "startDate": "2008-04-01",
     "endDate": "",
-    "summary": "Boutique marketing consultancy specializing in technology and financial services clients.",
+    "summary": "✔︎\u00A0 Boutique marketing consultancy specializing in technology and financial services clients.",
     "highlights": [
-      "Created and optimized keyword campaigns for marketing VMWare cloud services to developers; reducing cost-per-lead lead by 37% while increasing lead volume at the same time. Managed their $350k AdWords spend.",
+      "Created and optimized keyword campaigns for marketing VMWare cloud services to developers — reducing cost-per-lead lead by 37% while increasing lead volume at the same time. Managed their $350k AdWords spend.",
       "Defined marketing objectives, identified new traffic sources, and implemented landing-page split-testing & improvements that increased a Financial Services client’s lead volume by over 600% with conversion rates as high as 23%.",
       "Drove the overall value proposition and product marketing vision by collaborating closely with the CEO of a Fintech startup, resulting in a $500k seed round, and over $500k in initial sales."
     ]
@@ -47,7 +47,7 @@
     "website": "https://ramprate.com/",
     "startDate": "2008-02-01",
     "endDate": "2009-04-01",
-    "summary": "Developed b2b marketing programs to reach VP and C-Suite decision-makers at Global 2000 companies shopping for cloud services. Created content for all touchpoints in the Buyer's Journey. Implemented Salesforce.com for this org, and aligned the marketing group and sales team on a lead generation and management process."
+    "summary": "✔︎\u00A0 Developed b2b marketing programs to reach VP and C-Suite decision-makers at Global 2000 companies shopping for cloud services. Created content for all touchpoints in the Buyer's Journey. Implemented Salesforce.com for this org, and aligned the marketing group and sales team on a lead generation and management process."
   },
     {
     "company": "Wildwood Hills Search Marketing",
@@ -55,7 +55,7 @@
     "website": "https://en.wikipedia.org/wiki/Pay-per-call_advertising",
     "startDate": "2004-01-01",
     "endDate": "2008-01-01",
-    "summary": "Founded this successful business-to-consumer internet advertising agency, and grew it to almost 200 brick-and-mortar clients via a productized service offering and a formalized, documented sales strategy.",
+    "summary": "✔︎\u00A0 Founded this successful business-to-consumer internet advertising agency, and grew it to almost 200 brick-and-mortar clients via a productized service offering and a formalized, documented sales strategy.",
     "highlights": [
       "Origin Story: After a couple years of selling internet advertising for other firms, I realized that most small businesses in your local yellow pages didn't understand the value of online marketing at that time — due to its complexities and overwhelming array of options. They really wanted phone calls from new prospects. I had an epiphany moment and launched the world's first Pay-Per-Call performance marketing service.",
       "I concepted and put together a toll-free VOIP phone number-bank and call forwarding and tracking system using open-source software and spreadsheets.",
@@ -68,7 +68,7 @@
     "website": "https://www.conversantmedia.com/",
     "startDate": "2003-01-01",
     "endDate": "2004-08-01",
-    "summary": "We take visa, mastercard, and american express … which will it be?",
+    "summary": "✔︎\u00A0 We take visa, mastercard, and american express … which will it be?",
     "highlights": [
       "Sold all manner of CPC / CPA / CPM internet advertising media as an independent rep for multiple firms in LA and SF.",
       "Purchased traffic at a discount and ran my own affiliate offers."
@@ -80,7 +80,7 @@
     "website": "http://warnerbros.com",
     "startDate": "2002-01-01",
     "endDate": "2003-04-01",
-    "summary": "Was hired for hands-on viral marketing of home video releases (on DVD) for titles like The Matrix, Harry Potter & Scooby Doo. Generated millions of impressions for these global brands, contributing to gross sales around release dates."
+    "summary": "✔︎\u00A0 Was hired for hands-on viral marketing of home video releases (on DVD) for titles like The Matrix, Harry Potter & Scooby Doo. Generated millions of impressions for these global brands, contributing to gross sales around release dates."
   },
     {
     "company": "Razorfish",
@@ -88,10 +88,10 @@
     "website": "https://www.razorfish.com/",
     "startDate": "1999-01-01",
     "endDate": "2001-03-01",
-    "summary": "Managed cross-functional project teams for interactive engagements w/ budgets ranging from $1 to $3 million.",
+    "summary": "✔︎\u00A0 Managed cross-functional, multi-disciplinary project teams for web development engagements w/ budgets ranging from $1 to $3 million.",
     "highlights": [
       "Full accountability for cost / schedule / quality for the client — and overall P&L for the agency — which required a comprehensive understanding of financial and operational metrics and levers.",
-      "Learned the required soft-skills to motivate team members when you have all the responsibility, and no authority.",
+      "Learned the necessary soft-skills to motivate team members when you have all the responsibility, and no authority.",
       "Learned to clarify ambiguous requirements, identify hidden stakeholders, and influence client decisions.",
       "Implemented project risk identification practices & change control procedures.",
       "Used the best parts of Agile, Scrum, PMI PMBOK, and Rational Unified methodologies."
@@ -103,7 +103,7 @@
     "website": "https://www.move.com/",
     "startDate": "1997-03-01",
     "endDate": "1998-06-01",
-    "summary": "HTML / CSS / JavaScript. Vested + IPO during my tenure."
+    "summary": "✔︎\u00A0 HTML / CSS / JavaScript. Vested + IPO during my tenure."
   }],
   "volunteer": [{
     "organization": "ChickTech",
@@ -138,7 +138,7 @@
 {
     "title": "Salesforce Certified Sales Cloud Consultant",
     "awarder": " — Salesforce.com",
-    "summary": "Trained in client-facing, customer-centric discovery of business goals and challenges in order to design *and implement* Sales Cloud solutions. Requires a deep knowledge of business processes as well as the technical architecture of complex SAAS. There is also a crucial cultural component in rolling out and getting salespeople and other stakeholders to adopt and use the CRM effectively."
+    "summary": "Trained in client-facing, customer-centric discovery of business goals and challenges in order to design *and implement* Sales Cloud solutions. Requires a deep knowledge of business processes & technical architecture of complex SAAS. Also requires interpersonal acumen to navigate the opinions of the highest paid person in the room."
   },
 {
     "title": "Google AdWords Certified Professional",
@@ -148,7 +148,7 @@
 {
     "title": "Google Analytics IQ Certification",
     "awarder": " — Google",
-    "summary": "Advanced traffic and user behavior analysis using segmentation, cohort, channel, and audience reports. The idea is to understand the data in order to make actionable product and marketing hypotheses for A/B testing & continuous improvement. Certified 2x."
+    "summary": "Advanced traffic and user behavior analysis using segmentation, cohort, channel, and audience reports. Certified 2x."
   }],
   "publications": [{
     "name": "ClickBank Ebook",
