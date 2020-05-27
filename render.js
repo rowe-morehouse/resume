@@ -9,13 +9,13 @@ var fs = require('fs');
 var resume = require("resume-schema").resumeJson;
 var theme = require("./index.js");
 
-fs.writeFile("./build/index.html", render(), function(err) {
+fs.writeFile("./index.html", render(), function(err) {
     if(err) {
         console.log(err);
     } else {
         console.log("index.html written to build folder.");
     }
-}); 
+});
 
 function render() {
     try {
