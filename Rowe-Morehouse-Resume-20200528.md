@@ -1,5 +1,5 @@
 # Rowe Morehouse
-<small>rm@trendara.com &middot; https://git.io/rowe &middot; (541) xxx-xx92 &middot; Bend, OR</small>
+<small>rm@trendara.com &middot; https://git.io/rowe &middot; (541) xxx-xx92 &middot; Bend, Oregon</small>
 
 <!-- ![Rowe Morehouse](https://secure.gravatar.com/avatar/a3f6607c5c2eca57e465e09bd73af3ec?size=2501) -->
 
