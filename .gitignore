@@ -32,7 +32,7 @@ _asset_bundler_cache
 *.swf
 *.mp4
 *.mov
-*.psd
+# *.psd
 *.pkf
 *.asd
 
