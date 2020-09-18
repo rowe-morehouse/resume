@@ -1,11 +1,11 @@
 {
   "basics": {
     "name": "Rowe Morehouse",
-    "label": "Technology Sales and Marketing \u00B7 Product Development \u00B7 Software Project Management \u00B7 Frontend Dev \u00B7 Design",
+    "label": "Technology Sales and Marketing \u00B7 Growth \u00B7 Product Development \u00B7 Software Project Management \u00B7 Frontend Dev \u00B7 QA \u00B7 Design",
     "picture": "https://secure.gravatar.com/avatar/a3f6607c5c2eca57e465e09bd73af3ec?size=250",
     "email": "rm@trendara.com",
     "phone": "(541) xxx-xx92",
-    "summary": "Creative entrepreneurial executive with deep technical expertise and software project management experience. Certifications in AWS, Salesforce, Google AdWords & Analytics. Master's Degree. Modern frontend web developer stack and workflow — including art direction and UI design tools. User-focused product manager. Empathetic team leader.",
+    "summary": "Creative businessperson with deep technical expertise and software project management experience. Certifications in AWS, Salesforce, Google AdWords & Analytics. Master's Degree. Modern frontend web developer stack and workflow — including art direction, UI design tools, and QA. User-focused product manager. Empathetic team leader.",
     "location": {
       "postalCode": "97701",
       "city": "Bend, Oregon"
@@ -58,7 +58,7 @@
     "summary": "✔︎\u00A0 Founded this successful business-to-consumer internet advertising agency, and grew it to almost 200 brick-and-mortar clients via a productized service offering and a formalized, documented sales strategy.",
     "highlights": [
       "Origin Story: After a couple years of selling internet advertising for other firms, I realized that most small businesses in your local yellow pages didn't understand the value of online marketing at that time — due to its complexities and overwhelming array of options. They really wanted phone calls from new prospects. I had an epiphany moment and launched the world's first Pay-Per-Call performance marketing service.",
-      "I concepted and put together a toll-free VOIP phone number-bank and call forwarding and tracking system using open-source software and spreadsheets.",
+      "I concepted and put together a toll-free VOIP phone number bank and call tracking system using open-source software and spreadsheets.",
       "Our clients loved only having to pay for the phone calls they received … but the key to the success of this business was the smart sales program and my motivating commission structure which attracted top salespeople who I hired and managed."
     ]
   },
@@ -68,7 +68,7 @@
     "website": "https://www.conversantmedia.com/",
     "startDate": "2003-01-01",
     "endDate": "2004-08-01",
-    "summary": "✔︎\u00A0 We take visa, mastercard, and american express … which will it be?",
+    "summary": "✔︎\u00A0 Direct Sales. We take Visa, Mastercard, and American Express … which will it be?",
     "highlights": [
       "Sold all manner of CPC / CPA / CPM internet advertising media as an independent rep for multiple firms in LA and SF.",
       "Purchased traffic at a discount and ran my own affiliate offers."
@@ -118,7 +118,7 @@
     "website": "https://www.linkedin.com/company/high-desert-makers/about/",
     "startDate": "2014-11-01",
     "endDate": "2017-02-1",
-    "summary": "✔︎\u00A0 I consult, configure, and run Salesforce for 501(c)(3) nonprofits organizations."
+    "summary": "✔︎\u00A0 I consult, configure, and run Salesforce for 501(c)(3) nonprofit organizations."
     }],
   "education": [{
     "institution": "University of Colorado Boulder",
@@ -133,7 +133,7 @@
   "awards": [{
     "title": "AWS Certified Solutions Architect (Associate)",
     "awarder": " — Amazon Web Services",
-    "summary": "✔︎\u00A0 Hands-on AWS cloud compute, networking, storage, and database knowledge. Software development life cycle, web & app servers, networking, caching, REST, and generally architecting large scale distributed systems. To prepare for the exam, it took me 2 weeks to *read the spec for every single AWS service* — around 160 at the time."
+    "summary": "✔︎\u00A0 Hands-on AWS cloud compute, networking, storage, and database knowledge. Software development life cycle, web & app servers, networking, caching, REST, testing, and CI / CD. To prepare for the exam, it took me 2 weeks to _read the spec for every single AWS service_ — around 100 at the time."
   },
 {
     "title": "Salesforce Certified Sales Cloud Consultant",
@@ -156,17 +156,19 @@
     {
       "keywords": [
         "HTML",
-        "CSS / Sass / SCSS",
-        "Bootstrap / Tailwind",
-        "AWS Certified",
+        "CSS / SCSS",
         "Git / Github",
-        "Basic React / Angular / Vue.js",
+        "Basic React / Angular",
+        "DevTools / Dev Console",
         "Basic Node / NPM",
+        "Basic Selenium / Cypress / Mabl",
+        "AWS Certified",
         "-|-",
         "Google Adwords",
         "Lead Generation",
         "Ecommerce",
         "Conversion Optimization",
+        "A/B Testing",
         "Web Analytics",
         "User Experience Design",
         "-|-",
@@ -187,6 +189,8 @@
         "Sales Operations",
         "Salesforce CRM Design & Implementation",
         "-|-",
+        "Curiousity",
+        "Broad Interests & Creative Pursuits",
         "Listening, Empathy, and Courtesy"
       ]
     }
