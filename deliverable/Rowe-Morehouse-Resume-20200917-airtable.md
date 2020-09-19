@@ -6,7 +6,7 @@
 <!-- ![Rowe Morehouse](https://secure.gravatar.com/avatar/a3f6607c5c2eca57e465e09bd73af3ec?size=2501) -->
 
 
-🚀 CREATIVE BUSINESSPERSON AND ANALYST with deep technical expertise. Certifications in AWS, Salesforce Consulting, Google AdWords & Analytics. Master's Degree. Modern frontend web developer stack and workflows — including art direction, UI design, and QA tools. Product design with a focus on users needs. Flexible, empathetic coworker who understands how test cases impact developers. 
+🚀 CREATIVE BUSINESSPERSON AND ANALYST with deep technical expertise. Certifications in AWS, Salesforce Consulting, Google AdWords & Analytics. Master's Degree. Modern frontend Web Developer stack and workflows — including art direction, UI design, and QA tools. Product design with a focus on users needs. Flexible, empathetic coworker who understands how test cases impact developers. 
 
 ### Work Experience
 
@@ -81,7 +81,7 @@ HTML5 ··· CSS3 ··· Basic React / Angular ··· DevTools / Dev Console ·�
 
 **Salesforce.com Certified Sales Cloud Consultant**
 
-✔︎  Trained in client-facing, customer-centric discovery of business goals and challenges in order to design _and implement_ Sales Cloud solutions. Requires a deep knowledge of business processes & technical architecture of complex <mark>SAAS developed with modern frameworks.</mark> Also requires interpersonal acumen and emotional intelligence to navigate the opinions of the highest paid person in the room.
+✔︎  Trained in client-facing, customer-centric discovery of business goals and challenges in order to design _and implement_ Sales Cloud solutions. Requires a deep knowledge of <strong>business processes & technical architecture</strong> of complex <mark>SAAS developed with modern frameworks.</mark> Also requires interpersonal acumen and emotional intelligence to navigate the opinions of the highest paid person in the room.
 
 **Google AdWords & Google Analytics Certifications**
 
