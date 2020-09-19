@@ -1,20 +1,20 @@
 # Rowe Morehouse
-<small>rm@trendara.com &middot; https://git.io/rowe &middot; (541) xxx-xx92 &middot; Bend, Oregon</small>
+<small>rm@trendara.com &middot; https://git.io/rowe &middot; (541) 640-9592 &middot; Bend, Oregon</small>
 
 ## Growth · Product Dev · Software Project Management · Frontend Dev · QA
 
 <!-- ![Rowe Morehouse](https://secure.gravatar.com/avatar/a3f6607c5c2eca57e465e09bd73af3ec?size=2501) -->
 
 
-🚀 CREATIVE BUSINESSPERSON AND ANALYST with deep technical expertise. Certifications in AWS, Salesforce, Google AdWords & Analytics. Master's Degree. Modern frontend web developer stack and workflows — including art direction, UI design, and QA tools. Product design with a focus on users needs. Flexible, empathetic coworker who understands how test cases impact developers. 
+🚀 CREATIVE BUSINESSPERSON AND ANALYST with deep technical expertise. Certifications in AWS, Salesforce Consulting, Google AdWords & Analytics. Master's Degree. Modern frontend web developer stack and workflows — including art direction, UI design, and QA tools. Product design with a focus on users needs. Flexible, empathetic coworker who understands how test cases impact developers. 
 
 ### Work Experience
 
-**Founder / CEO — Trendara LLC** &nbsp;_<small>Apr 2008 - Sept 2020</small>_
+**Founder / Principal Analyst — Trendara LLC** &nbsp;_<small>Apr 2008 - Sept 2020</small>_
 
 ✔︎  Boutique marketing consultancy specializing in technology and financial services clients.
 
-* Used experiments to optimize keyword campaigns for marketing VMWare cloud services — reducing cost-per-lead lead by 37% while increasing lead volume at the same time. Managed their $350k AdWords spend.
+* Used experiments to optimize keyword campaigns for marketing VMWare cloud services — reducing cost-per-lead by 37% while increasing lead volume at the same time. Managed their $350k AdWords spend.
 
 *   Identified new traffic sources, hypothesized use cases, and implemented landing-page A/B testing & improvements that increased a Financial Services client’s lead volume by over 600% with conversion rates as high as 23%.
 
@@ -42,7 +42,6 @@
 *   Sold all manner of CPC / CPA / CPM internet advertising media as an independent rep for multiple firms in LA and SF.
 
 *   Purchased traffic at a discount and ran my own affiliate offers.
-
 
 **Online Marketing Specialist — Warner Bros. Online** &nbsp;_<small>Jan 2002 - Apr 2003</small>_
 
@@ -119,4 +118,4 @@ HTML5 ··· CSS3 ··· Basic React / Angular ··· DevTools / Dev Console ·�
 
 <br />
 
-<small>Rowe Morehouse &middot; rm@trendara.com &middot; https://git.io/rowe  · (541) xxx-xx92 · Bend, Oregon</small>
+<small>Rowe Morehouse &middot; rm@trendara.com &middot; https://git.io/rowe  · (541) 640-9592</small>
