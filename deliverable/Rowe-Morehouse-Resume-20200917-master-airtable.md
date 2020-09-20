@@ -1,7 +1,12 @@
 # Rowe Morehouse
 <small>rm@trendara.com &middot; https://git.io/rowe &middot; (541) 640-9592 &middot; Bend, Oregon</small>
 
-🚀 CREATIVE BUSINESSPERSON, CODER, AND ANALYST with deep technical expertise. Certifications in AWS, Salesforce Consulting, Google AdWords & Analytics. Master's Degree. Modern frontend Web Developer stack and workflows — <mark>including UI design, and QA tools</mark>. Product design with a focus on users needs. Flexible, empathetic coworker who understands how test cases impact developers. 
+## Growth · Product Dev · Software Project Management · Frontend Dev · QA
+
+<!-- ![Rowe Morehouse](https://secure.gravatar.com/avatar/a3f6607c5c2eca57e465e09bd73af3ec?size=2501) -->
+
+
+🚀 CREATIVE BUSINESSPERSON AND ANALYST with deep technical expertise. Certifications in AWS, Salesforce Consulting, Google AdWords & Analytics. Master's Degree. Modern frontend Web Developer stack and workflows — including art direction, UI design, and QA tools. Product design with a focus on users needs. Flexible, empathetic coworker who understands how test cases impact developers. 
 
 ### Work Experience
 
@@ -13,7 +18,8 @@
 
 *   Identified new traffic sources, hypothesized use cases, and implemented landing-page A/B testing & improvements that increased a Financial Services client’s lead volume by over 600% with conversion rates as high as 23%.
 
-*   Drove the overall <mark>value proposition and product marketing vision</mark> by collaborating closely with the CEO of a Fintech startup, resulting in a \\$500k seed round, and over \\$500k in initial sales.
+*   Drove the overall <mark>value proposition and product marketing</mark> vision by collaborating closely with the CEO of a Fintech startup, resulting in a \\$500k seed round, and over \\$500k in initial sales.
+
 
 **Director of Marketing — RampRate** &nbsp;_<small>Feb 2008 - Apr 2009</small>_
 
@@ -21,17 +27,25 @@
 
 **Founder / CEO — Wildwood Hills Search Marketing** &nbsp;_<small>Jan 2004 - Jan 2008</small>_
 
-✔︎  Founded this successful business-to-consumer internet advertising agency, and grew it to almost 200 brick-and-mortar clients via a productized service offering and formalized sales strategy.
+✔︎  Founded this successful business-to-consumer internet advertising agency, and grew it to almost 200 brick-and-mortar clients via a productized service offering and a formalized, documented sales strategy.
 
 *   Origin Story: After a couple years of selling internet advertising for other firms, I realized that most small businesses in your local yellow pages didn't understand the value of online marketing at that time — due to its complexities and overwhelming array of options. They really wanted phone calls from new prospects. I had an epiphany moment and <mark>launched the world's first Pay-Per-Call performance marketing service</mark>.
 
+*   I concepted and put together a toll-free VOIP phone number bank and call tracking system using open-source software and spreadsheets.
+
+*   Our clients loved only having to pay for the phone calls they received … but the key to the success of this business was the smart sales program and my motivating commission structure which attracted top salespeople who I hired and managed.
+
 **Sales Executive — Web Media Online Advertising** &nbsp;_<small>Jan 2003 - Aug 2004</small>_
 
-✔︎  We take Visa, Mastercard, and American Express … which will it be? 
+✔︎  Direct Sales. We take Visa, Mastercard, and American Express … which will it be?
+
+*   Sold all manner of CPC / CPA / CPM internet advertising media as an independent rep for multiple firms in LA and SF.
+
+*   Purchased traffic at a discount and ran my own affiliate offers.
 
 **Online Marketing Specialist — Warner Bros. Online** &nbsp;_<small>Jan 2002 - Apr 2003</small>_
 
-✔︎  Was hired for hands-on viral marketing of home video releases (on DVD) for titles like The Matrix, Harry Potter & Scooby Doo. <mark>Generated millions of impressions</mark> for these global brands.
+✔︎  Was hired for hands-on viral marketing of home video releases (on DVD) for titles like The Matrix, Harry Potter & Scooby Doo. <mark>Generated millions of impressions</mark> for these global brands, contributing to gross sales around release dates.
 
 **Technical Project Manager — Razorfish** &nbsp;_<small>Jan 1999 - Mar 2001</small>_
 
@@ -42,6 +56,8 @@
 *   Learned the necessary <mark>soft-skills to motivate team members</mark> when you have all the responsibility, and no authority.
 
 *   Learned to clarify ambiguous requirements, identify hidden stakeholders, and influence client decisions.
+
+*   Implemented project risk identification practices & change control procedures.
 
 *   Used the best parts of Agile, Scrum, PMI PMBOK, and Rational Unified methodologies.
 
@@ -61,13 +77,11 @@ HTML5 ··· CSS3 ··· Basic React / Angular ··· DevTools / Dev Console ·�
 
 **AWS Certified Solutions Architect (Associate)**
 
-✔︎  Hands-on AWS cloud compute, networking, storage, and relational databases knowledge. Software development life cycle, web & app servers, networking, caching, <mark>REST API, testing, and CI/CD</mark>. To prepare for the exam it took me 2 weeks to _read the spec for every single AWS service_ — around 100 at the time.  
-
-<BR />
+✔︎  Hands-on AWS cloud compute, networking, storage, and relational databases knowledge. Software development life cycle, web & app servers, networking, caching, <mark>REST API, testing, and CI/CD</mark>. To prepare for the exam it took me 2 weeks to _read the spec for every single AWS service_ — around 100 at the time.
 
 **Salesforce.com Certified Sales Cloud Consultant**
 
-✔︎  Trained in client-facing, customer-centric discovery of business goals and challenges in order to design _and implement_ Sales Cloud solutions. Requires a deep knowledge of <mark>business processes & technical architecture of complex SAAS</mark>. Also requires interpersonal acumen and emotional intelligence to navigate the opinions of the highest paid person in the room.
+✔︎  Trained in client-facing, customer-centric discovery of business goals and challenges in order to design _and implement_ Sales Cloud solutions. Requires a deep knowledge of business processes & technical architecture of complex <mark>SAAS developed with modern frameworks.</mark> Also requires interpersonal acumen and emotional intelligence to navigate the opinions of the highest paid person in the room.
 
 **Google AdWords & Google Analytics Certifications**
 
@@ -86,7 +100,7 @@ HTML5 ··· CSS3 ··· Basic React / Angular ··· DevTools / Dev Console ·�
 
 **ClickBank Ebook**  &nbsp;_<small>7th Edition published Feb 17, 2019</small>_
 
-✔︎  Authored and self-published an Ebook — under an assumed pen name — that has grossed a cumulative $1.3 million in passive revenue; 100% due to my evolving product roadmap & obsessive customer focus.
+✔︎  Authored and self-published an Ebook — under an assumed pen name — that has grossed a cumulative $1.3 million in passive revenue; 100% due to my evolving product roadmap, obsessive quality + customer focus, and automated PPC & email marketing efforts.
 
 ### Volunteer Work
 
@@ -96,10 +110,12 @@ HTML5 ··· CSS3 ··· Basic React / Angular ··· DevTools / Dev Console ·�
 
 **CRM Manager — High Desert Makers** &nbsp;_<small>Nov 2014 - Feb 2017</small>_
 
-✔︎  I consult, configure, and run Salesforce for 501(c)(3) nonprofit organizations and other use cases.
+✔︎  I consult, configure, and run Salesforce for 501(c)(3) nonprofit organizations and other use cases.  
 
----  
+<br />
 
-<BR />
+---
+
+<br />
 
 <small>Rowe Morehouse &middot; rm@trendara.com &middot; https://git.io/rowe  · (541) 640-9592</small>
