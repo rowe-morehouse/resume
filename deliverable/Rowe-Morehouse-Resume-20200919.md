@@ -1,7 +1,7 @@
 # Rowe Morehouse
-<small>rm@trendara.com &middot; https://git.io/rowe &middot; (541) 640-9592 &middot; Bend, Oregon</small>
+<small>rm@trendara.com &middot; https://git.io/rowe &middot; (541) xxx-xx92 &middot; Bend, Oregon</small>
 
-🚀 CREATIVE BUSINESSPERSON, CODER, AND ANALYST with deep technical expertise. Certifications in AWS, Salesforce Consulting, Google AdWords & Analytics. Master's Degree. Modern frontend Web Developer stack and workflows — <mark>including UI design, and QA tools</mark>. Product design with a focus on users needs. Flexible, empathetic coworker who understands how test cases impact developers. 
+🚀 CREATIVE BUSINESSPERSON, MARKETER, CODER, AND ANALYST with deep technical expertise. Revenue & Profit oriented. Certifications in AWS, Salesforce Consulting, Google AdWords & Analytics. Master's Degree. Modern frontend Web Developer stack and workflow — including UI design and web graphics. User-focused Product Design. Agile Software Project Management. Flexible, empathetic team leader. 
 
 ### Work Experience
 
@@ -9,7 +9,7 @@
 
 ✔︎  Boutique marketing consultancy specializing in technology and financial services clients.
 
-* Used experiments to optimize keyword campaigns for marketing VMWare cloud services — reducing cost-per-lead by 37% while increasing lead volume at the same time. Managed their $350k AdWords spend.
+* Used experiments to optimize PPC keyword campaigns for marketing VMWare cloud services — reducing cost-per-lead by 37% while increasing lead volume at the same time. Managed their $350k AdWords spend.
 
 *   Identified new traffic sources, hypothesized use cases, and implemented landing-page A/B testing & improvements that increased a Financial Services client’s lead volume by over 600% with conversion rates as high as 23%.
 
@@ -21,9 +21,11 @@
 
 **Founder / CEO — Wildwood Hills Search Marketing** &nbsp;_<small>Jan 2004 - Jan 2008</small>_
 
-✔︎  Founded this successful business-to-consumer internet advertising agency, and grew it to almost 200 brick-and-mortar clients via a productized service offering and formalized sales strategy.
+✔︎  Founded this successful business-to-consumer internet advertising agency, and grew it to almost 200 brick-and-mortar clients via a productized service offering and formalized sales strategy. We \$$$ crushed it for 4 years until the market changed.
 
 *   Origin Story: After a couple years of selling internet advertising for other firms, I realized that most small businesses in your local yellow pages didn't understand the value of online marketing at that time — due to its complexities and overwhelming array of options. They really wanted phone calls from new prospects. I had an epiphany moment and <mark>launched the world's first Pay-Per-Call performance marketing service</mark>.
+
+<BR />
 
 **Sales Executive — Web Media Online Advertising** &nbsp;_<small>Jan 2003 - Aug 2004</small>_
 
@@ -37,7 +39,7 @@
 
 ✔︎  Managed cross-functional, multi-disciplinary project teams for web development engagements w/ budgets ranging from \\$1 to \\$3 million.
 
-*   Full accountability for cost / schedule / quality for the client — and overall P&L for the agency — which required a comprehensive understanding of financial and operational metrics and levers.
+*   Full accountability for <strong>cost / schedule / quality</strong> for the client — and overall P&L for the agency — which required a comprehensive understanding of financial and operational metrics and levers.
 
 *   Learned the necessary <mark>soft-skills to motivate team members</mark> when you have all the responsibility, and no authority.
 
@@ -53,7 +55,7 @@
 
 ### ✨ Skills
 
-HTML5 ··· CSS3 ··· Basic React / Angular ··· DevTools / Dev Console ··· Git / Github ··· Basic Node / NPM ··· Cucumber / Cypress ··· AWS Certified ··· Google Adwords ··· Conversion Optimization ··· A/B Testing ··· Web Analytics ··· User Experience Design ··· Visual Design ··· Sketch ··· Zeplin ··· Photoshop since v1.0 ··· Video Editing ··· Software Project Management ··· Agile / Lean / Scrum ··· Product Development ··· Copywriting ··· Direct Sales ··· Salesforce CRM Design & Implementation ··· Broad Interests & Creative Pursuits ··· Curiosity ··· Listening, Empathy, and Courtesy.
+HTML5 ··· CSS3 ··· Basic React / Angular ··· DevTools / Dev Console ··· Git / Github ··· Basic Node / NPM ··· ··· AWS Certified ··· Google Adwords ··· Marketing Automation ··· Conversion Optimization ··· A/B Testing ··· Web Analytics ··· User Experience Design ··· Visual Design ··· Sketch ··· Zeplin ··· Photoshop since v1.0 ··· Video Editing ··· Software Project Management ··· Agile / Scrum ··· Product Development ··· Copywriting ··· Direct Sales ··· Salesforce CRM ··· Broad Interests & Creative Pursuits ··· Curiosity ··· Listening, Empathy, and Courtesy.
 
 ---
 
@@ -86,20 +88,21 @@ HTML5 ··· CSS3 ··· Basic React / Angular ··· DevTools / Dev Console ·�
 
 **ClickBank Ebook**  &nbsp;_<small>7th Edition published Feb 17, 2019</small>_
 
-✔︎  Authored and self-published an Ebook — under an assumed pen name — that has grossed a cumulative $1.3 million in passive revenue; 100% due to my evolving product roadmap & obsessive customer focus.
+✔︎  Authored and self-published an Ebook — under an assumed pen name — that has grossed a cumulative $1.3 million in passive revenue; 100% due to my evolving product roadmap, obsessive customer focus, and <mark>automated PPC & Email Marketing campaigns</mark>.
 
 ### Volunteer Work
 
-**Lead Instructor — ChickTech** &nbsp;_<small>Mar 2018 - Sept 2020</small>_
+**Lead Instructor — ChickTech** &nbsp;_<small>Mar 2018 - Present</small>_
 
 ✔︎  I teach beginning web development to young people from rural communities for this 501(c)(3) supporting women and girls in tech.
 
 **CRM Manager — High Desert Makers** &nbsp;_<small>Nov 2014 - Feb 2017</small>_
 
-✔︎  I consult, configure, and run Salesforce for 501(c)(3) nonprofit organizations and other use cases.
+✔︎  I consult, configure, and run Salesforce for 501(c)(3) nonprofit organizations.
 
 ---  
 
 <BR />
+<BR />
 
-<small>Rowe Morehouse &middot; rm@trendara.com &middot; https://git.io/rowe  · (541) 640-9592</small>
+<small>Rowe Morehouse &middot; rm@trendara.com &middot; https://git.io/rowe  · (541) xxx-xx92</small>
