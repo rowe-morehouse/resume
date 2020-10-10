@@ -25,6 +25,28 @@
   <meta name="twitter:image" content="https://secure.gravatar.com/avatar/a3f6607c5c2eca57e465e09bd73af3ec?size=350">
   <!-- END METAS  -->
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" />
+
+  <style type="text/css">
+    /* ---- reset ---- */
+    canvas {
+      display: block;
+      vertical-align: top;
+      position: fixed;
+    }
+
+    /* ---- particles.js container ---- */
+    #particles-js {
+      position: absolute;
+      width: 100%;
+      height: 100%;
+      background-color: #F7FAFC;
+      background-size: cover;
+      background-position: 50% 50%;
+    }
+  </style>
+
+
+
   <style>
   @font-face {
     font-family: 'icomoon';
@@ -390,11 +412,12 @@
 
   .label-keyword {
     display: inline-block;
-    background: #7eb0db;
+    background: #635bff;
+    opacity: .66;
     color: white;
     font-size: 0.9em;
     padding: 5px;
-    border: 1px solid #357ebd;
+    border: 1px solid #85E9FE;
     margin-right: 5px;
   }
 
@@ -467,7 +490,11 @@
     font-family: 'Lato';
     background: #F7FAFC;
     color: #707070;
-    /* color: #0a2540; */
+    margin: 0;
+    background-image: url("./assets/images/square-pattern.png");
+    background-size: 50%;
+    background-repeat: repeat-x repeat-y;
+
   }
 
   .main {
@@ -504,11 +531,11 @@
   }
 
   .background-card {
-    padding: 10px 20px;
+    padding: 5px 20px;
   }
 
   .card-wrapper {
-    padding: 5px;
+    padding: 10px;
   }
 
   @media (max-width: 992px) {
@@ -1270,12 +1297,133 @@
       page-break-before: always;
     }
   }
-
   </style>
 </head>
 
-<body itemscope="itemscope" itemtype="http://schema.org/Person">
+<body class="vsc-initialized" itemscope="itemscope" itemtype="http://schema.org/Person">
   <div class="container-fluid">
+      <div id="particles-js">
+        <canvas class="particles-js-canvas-el" width="1338" height="1598" style="width: 100%; height: 100%;">
+        </canvas>
+      </div>
+      <script src="./assets/js/particles.min.js"></script>
+    </div>
+    <script>
+      particlesJS("particles-js", {
+        "particles": {
+          "number": {
+            "value": 80,
+            "density": {
+              "enable": true,
+              "value_area": 800
+            }
+          },
+          "color": {
+            // "value": "#FD23D6",
+            "value": "#635bff",
+          },
+          "shape": {
+            "type": "circle",
+            "stroke": {
+              "width": 0,
+              "color": "#F7FAFC"
+            },
+            "polygon": {
+              "nb_sides": 5
+            },
+            "image": {
+              "src": "",
+              "width": 100,
+              "height": 100
+            }
+          },
+          "opacity": {
+            "value": 0.33,
+            "random": false,
+            "anim": {
+              "enable": false,
+              "speed": .5,
+              "opacity_min": 0.1,
+              "sync": false
+            }
+          },
+          "size": {
+            "value": 3,
+            "random": true,
+            "anim": {
+              "enable": false,
+              "speed": 40,
+              "size_min": 0.1,
+              "sync": false
+            }
+          },
+          "line_linked": {
+            "enable": true,
+            "distance": 177,
+            "color": "#635bff",
+            "opacity": 0.44,
+            "width": 1
+          },
+          "move": {
+            "enable": true,
+            "speed": 2,
+            "direction": "none",
+            "random": true,
+            "straight": false,
+            "out_mode": "out",
+            "bounce": false,
+            "attract": {
+              "enable": false,
+              "rotateX": 600,
+              "rotateY": 1200
+            }
+          }
+        },
+        "interactivity": {
+          "detect_on": "canvas",
+          "events": {
+            "onhover": {
+              "enable": false,
+              "mode": "repulse"
+            },
+            "onclick": {
+              "enable": true,
+              "mode": "push"
+            },
+            "resize": true
+          },
+          "modes": {
+            "grab": {
+              "distance": 400,
+              "line_linked": {
+                "opacity": 1
+              }
+            },
+            "bubble": {
+              "distance": 400,
+              "size": 40,
+              "duration": 2,
+              "opacity": 8,
+              "speed": 3
+            },
+            "repulse": {
+              "distance": 200,
+              "duration": 0.4
+            },
+            "push": {
+              "particles_nb": 4
+            },
+            "remove": {
+              "particles_nb": 2
+            }
+          }
+        },
+        "retina_detect": true
+      });
+    </script>
+
+
+
     <div class="row main clearfix"><a class="js-floating-nav-trigger floating-nav-trigger" href="#"><i class="icon-bars"></i><span class="close-icon">&times;</span></a>
       <nav class="floating-nav js-floating-nav">
         <ul class="list-unstyled">
@@ -1291,10 +1439,10 @@
       </nav>
       <section class="col-md-3 card-wrapper profile-card-wrapper affix">
         <div class="card profile-card"><span class="profile-pic-container">
-            <div class="profile-pic"><img class="media-object img-circle center-block" data-src="holder.js/100x100" alt="Rowe Morehouse" src="https://secure.gravatar.com/avatar/a3f6607c5c2eca57e465e09bd73af3ec?size=250" itemprop="image" /></div>
+            <div class="profile-pic"><img class="media-object img-circle center-block" data-src="holder.js/100x100" alt="Rowe Morehouse" src="https://secure.gravatar.com/avatar/a3f6607c5c2eca57e465e09bd73af3ec?size=250" itemprop="image" style="opacity: .88"/></div>
             <div class="name-and-profession text-center">
               <h3 itemprop="name"><b>Rowe Morehouse</b></h3>
-              <h5 class="text-muted><span class="info" itemprop="JobTitle" style="line-height: 125%">Growth · Product · Software Project Management · Frontend Dev · Design · Technical Writing · Sales</span></h5>
+              <h5 class="text-muted><span class="info" itemprop="JobTitle" style="line-height: 150%">Growth · Product · Software Project Management · Frontend Dev · Design · Technical Writing · Sales</span></h5>
             </div>
           </span>
           <hr />
@@ -1309,7 +1457,7 @@
           </div>
           <hr />
           <div class="contact-details clearfix">
-            <div class="detail"><span class="icon"><i class="icon fs-lg icon-codepen"></i></span><a href="http://rowe-morehouse.github.io/resume/uses/" target="_blank" data-toggle="tooltip" title="… a list of software I use."></a> <a class="info link-disguise external" href="http://rowe-morehouse.github.io/resume/uses/" target="_blank" data-toggle="tooltip" title="… a list of software I use.">See a list of software I use …</a>
+            <div class="detail"><span class="icon"><i class="icon fs-lg icon-codepen"></i></span><a href="http://rowe-morehouse.github.io/resume/uses/" target="_blank" data-toggle="tooltip" title="… a list of software I use."></a> <a class="info external" href="http://rowe-morehouse.github.io/resume/uses/" target="_blank">See a list of software I use …</a>
             </div>
           </div>
 <!--           <div class="contact-details clearfix">
@@ -1460,7 +1608,7 @@
                   <ul class="list-unstyled clear-margin">
                     <li class="card card-nested card-skills">
                       <div class="skill-info"><strong></strong>
-                        <div class="space-top labels"><span class="label label-keyword">HTML5</span><span class="label label-keyword">CSS3</span><span class="label label-keyword">Basic React / Angular</span><span class="label label-keyword">DevTools / Dev Console</span><span class="label label-keyword">Git / Github</span><span class="label label-keyword">Basic Node / NPM</span><span class="label label-keyword">Cucumber / Cypress</span><span class="label label-keyword">AWS Certified</span><span class="label label-keyword">-|-</span><span class="label label-keyword">Google Adwords</span><span class="label label-keyword">Lead Generation</span><span class="label label-keyword">Conversion Optimization</span><span class="label label-keyword">A/B Testing</span><span class="label label-keyword">Web Analytics</span><span class="label label-keyword">User Experience Design</span><span class="label label-keyword">-|-</span><span class="label label-keyword">Visual Design</span><span class="label label-keyword">Sketch</span><span class="label label-keyword">Zeplin</span><span class="label label-keyword">Photoshop since v1.0</span><span class="label label-keyword">Video Editing</span><span class="label label-keyword">Managing Designers</span><span class="label label-keyword">-|-</span><span class="label label-keyword">Managing Engineers</span><span class="label label-keyword">Software Project Management</span><span class="label label-keyword">Agile / Lean / Scrum</span><span class="label label-keyword">Product Development</span><span class="label label-keyword">Copywriting</span><span class="label label-keyword">-|-</span><span class="label label-keyword">Sales Operations</span><span class="label label-keyword">Sales Enablement</span><span class="label label-keyword">Salesforce CRM Design &amp; Implementation</span><span class="label label-keyword">-|-</span><span class="label label-keyword">Broad Interests &amp; Creative Pursuits</span><span class="label label-keyword">Curiosity</span><span class="label label-keyword">Listening, Empathy, and Courtesy</span></div>
+                        <div class="space-top labels"><span class="label label-keyword">HTML5</span><span class="label label-keyword">CSS3</span><span class="label label-keyword">Basic React / Angular</span><span class="label label-keyword">DevTools</span><span class="label label-keyword">Unix CLI</span><span class="label label-keyword">Github</span><span class="label label-keyword">Basic Node / NPM</span><span class="label label-keyword">AWS Certified</span><span class="label label-keyword">-|-</span><span class="label label-keyword">Google Adwords</span><span class="label label-keyword">Lead Generation</span><span class="label label-keyword">Conversion Optimization</span><span class="label label-keyword">A/B Testing</span><span class="label label-keyword">Web Analytics</span><span class="label label-keyword">User Experience Design</span><span class="label label-keyword">-|-</span><span class="label label-keyword">Visual Design</span><span class="label label-keyword">Sketch</span><span class="label label-keyword">Zeplin</span><span class="label label-keyword">Photoshop since v1.0</span><span class="label label-keyword">Video Editing</span><span class="label label-keyword">Managing Designers</span><span class="label label-keyword">-|-</span><span class="label label-keyword">Managing Engineers</span><span class="label label-keyword">Software Project Management</span><span class="label label-keyword">Agile / Lean / Scrum</span><span class="label label-keyword">Product Development</span><span class="label label-keyword">B2B & B2C Copywriting for Conversion</span><span class="label label-keyword">Technical Writing for Developers as an Audience</span><span class="label label-keyword">-|-</span><span class="label label-keyword">Sales Operations</span><span class="label label-keyword">Sales Enablement</span><span class="label label-keyword">Salesforce CRM Design &amp; Implementation</span><span class="label label-keyword">-|-</span><span class="label label-keyword">Passion for Learning</span><span class="label label-keyword">Curiosity</span><span class="label label-keyword">Listening, Empathy, and Courtesy</span></div>
                       </div>
                     </li>
                   </ul>
@@ -1536,7 +1684,7 @@
                   <ul class="list-unstyled clear-margin">
                     <li class="card card-nested">
                       <div class="content">
-                        <p class="clear-margin"><strong><a class="outbound" href="https://www.clickbank.com/" target="_blank">Author, ClickBank Ebook</a></strong>
+                        <p class="clear-margin"><a class="outbound" href="https://www.clickbank.com/" target="_blank">Author, ClickBank Ebook</a>
                           <p class="text-muted"><small>7th Edition published on: Feb 17, 2019</small></p>
                           <div class="mop-wrapper">
                             <p>✔︎  Self-published an Ebook — under an assumed pen name — that has <strong>grossed a cumulative $1.3 million in passive revenue</strong>; 100% due to my evolving product roadmap, persuasive copywriting, <mark>obsessive customer focus</mark>, and automated PPC &amp; email marketing efforts</p>
@@ -1588,7 +1736,7 @@
                 </div>
               </div>
             </div><br>
-            <h4 class=text-muted></i> … This webpage is designed to <i>Print</i>  or <i>Print > Save as PDF</i>.</h4 class=muted-text>
+            <h4 class=text-muted></i> … This webpage is designed to <i style="color: #635bff; opacity: .77">Print</i>  or <i style="color: #635bff; opacity: .77">Print > Save as PDF</i>.</h4 class=muted-text>
           </div>
         </div>
       </section>
