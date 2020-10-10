@@ -30,13 +30,13 @@
     /* ---- reset ---- */
     canvas {
       display: block;
-      vertical-align: top;
+      /* vertical-align: top; */
       position: fixed;
     }
 
     /* ---- particles.js container ---- */
     #particles-js {
-      position: absolute;
+      position: relative;
       width: 100%;
       height: 100%;
       background-color: #F7FAFC;
@@ -506,7 +506,7 @@
     border: 1px solid #e6e6e6;
     border-radius: 3px;
     min-height: 300px;
-    padding: 10px 0;
+    padding: 15px 0;
   }
 
   .card-nested {
@@ -535,10 +535,10 @@
   }
 
   .card-wrapper {
-    padding: 10px;
+    padding: 5px;
   }
 
-  @media (max-width: 992px) {
+  @media (max-width: 980px) {
     .card-wrapper {
       float: none !important;
     }
@@ -1303,7 +1303,7 @@
 <body class="vsc-initialized" itemscope="itemscope" itemtype="http://schema.org/Person">
   <div class="container-fluid">
       <div id="particles-js">
-        <canvas class="particles-js-canvas-el" width="1338" height="1598" style="width: 100%; height: 100%;">
+        <canvas class="particles-js-canvas-el">
         </canvas>
       </div>
       <script src="./assets/js/particles.min.js"></script>
