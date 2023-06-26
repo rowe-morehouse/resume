@@ -1,5 +1,5 @@
 # Rowe Morehouse
-rm@tephra.tech **·** _+1 (541) 640-9592_ **·** _Blog + Work samples:_ **[http://git.io/rowemore](http://git.io/rowemore)**
+rm@tephra.tech **·** _+1 (541) 6xx-xxx2_ **·** _Blog + Work samples:_ **[http://git.io/rowemore](http://git.io/rowemore)**
 
 * * *
 
